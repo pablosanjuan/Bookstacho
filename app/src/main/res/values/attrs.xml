@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Texts -->
+    <attr name="BoldText" format="reference"/>
+    <attr name="LightText" format="reference"/>
+    <attr name="RegularText" format="reference"/>
+    <attr name="TitleDarkText" format="reference"/>
+    <attr name="BodyDarkText" format="reference"/>
+    <attr name="TitleLightText" format="reference"/>
+    <attr name="BodyLightText" format="reference"/>
+
+    <!-- Buttons -->
+    <attr name="RegularDarkButton" format="reference"/>
+
+</resources>

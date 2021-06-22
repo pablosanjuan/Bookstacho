@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Texts -->
+    <dimen name="app_text_size_12">12sp</dimen>
+    <dimen name="app_text_size_14">14sp</dimen>
+    <dimen name="app_text_size_16">16sp</dimen>
+    <dimen name="app_text_size_18">18sp</dimen>
+    <dimen name="app_text_size_20">20sp</dimen>
+    <dimen name="app_text_size_22">22sp</dimen>
+    <dimen name="app_text_size_24">24sp</dimen>
+    <dimen name="app_text_size_26">26sp</dimen>
+    <dimen name="app_text_size_28">28sp</dimen>
+    <dimen name="app_text_size_30">30sp</dimen>
+    <dimen name="app_text_size_32">32sp</dimen>
+    
+    <!-- Icons -->
+    <dimen name="app_icon_8">8dp</dimen>
+    <dimen name="app_icon_16">16dp</dimen>
+    <dimen name="app_icon_24">24dp</dimen>
+    <dimen name="app_icon_32">32dp</dimen>
+    <dimen name="app_icon_48">48dp</dimen>
+    <dimen name="app_icon_60">60dp</dimen>
+    <dimen name="app_icon_120">120dp</dimen>
+
+    <!-- Margin // Padding -->
+    <dimen name="app_extra_small">4dp</dimen>
+    <dimen name="app_small">8dp</dimen>
+    <dimen name="app_small_medium">12dp</dimen>
+    <dimen name="app_medium">16dp</dimen>
+    <dimen name="app_small_large_element">20dp</dimen>
+    <dimen name="app_standard">24dp</dimen>
+    <dimen name="app_medium_large">28dp</dimen>
+    <dimen name="app_extra_large">32dp</dimen>
+    
+</resources>

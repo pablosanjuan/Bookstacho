@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Top level DayNight theme to be used in AndroidManifest.xml-->
+    <style name="Theme.Bookstacho" parent="Base.Theme.Bookstacho">
+        <!--Material color attributes (dark theme) -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_600</item>
+        <item name="colorSecondary">@color/green_200</item>
+        <item name="colorSecondaryVariant">@color/green_500</item>
+        <item name="android:colorBackground">@color/surface_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/surface_dark</item>
+        <item name="colorOnSecondary">@color/surface_light</item>
+        <item name="colorOnBackground">@color/color_background_dark</item>
+        <item name="colorOnSurface">@color/surface_light</item>
+        <item name="colorOnError">@color/surface_light</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
+    </style>
+</resources>
